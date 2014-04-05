@@ -156,12 +156,10 @@
     },
 
     cleanse: function() {
-
     	this.element.removeClass('animated');
 
   		this.element.removeClass(this.queue[0]);
-
-      this.element.removeClass(this.element.data("animo"));
+      T
 
   		var ai = this.prefixes.length;
 
